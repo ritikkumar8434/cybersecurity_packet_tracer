@@ -58,6 +58,6 @@ This project aimed to assess and secure the digital infrastructure of a college 
 ## 🔗 Contact
 
 **Ritik Kumar Sahu**  
-[LinkedIn](https://www.linkedin.com/in/ritikumarsahu/) | ritikkumar8434@gmail.com
+[LinkedIn](https://www.linkedin.com/in/ritikumarsahu/) | ritikkumar3g@gmail.com
 
 > ✅ *This project was developed as part of the AICTE Cisco Virtual Cybersecurity Internship to apply cybersecurity concepts in real-world scenarios.*
